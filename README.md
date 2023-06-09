@@ -6,9 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [workat.tech](workat.tech)
-- 🌱 I’m currently learning how to run a business and change how people learn to code
-- 👯 I’m looking to collaborate on helping students upskill
-- 🤔 I’m looking for help with reaching out to students
-- 💬 Ask me about programming, interview preparation and job search
+- 🔭 I’m currently working at Quizizz as a backend engineer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gcnit)
