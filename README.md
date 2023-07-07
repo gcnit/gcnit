@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working at Quizizz as a backend engineer
+- More about me: [gauravchandak.com](https://gauravchandak.com)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gcnit)
